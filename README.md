@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Huihong Li 👋
 
-<!--
-**HuihongLi/HuihongLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. student in Computational Biology and Biomedical Informatics at Yale University.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dynamical systems modeling, spiking neural networks, metagenomics, microbiome assembly, reproducible analysis pipelines
+
+## Publications
+
+- Li, H. et al. "Genome-wide consensus transcriptional signatures identify synaptic pruning linking Alzheimer's disease and epilepsy." *Molecular Psychiatry*, 2025
+- Li, H. et al. "Reconstruction of 1,979 prokaryotic metagenome-assembled genomes from 37 global cave environments." *Scientific Data*, 2025
+- Li, H. & McDougal, R.A. "Local homeostatic scaling supports stable rate propagation under noise and heterogeneity." *bioRxiv*, 2025
