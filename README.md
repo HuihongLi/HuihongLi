@@ -4,7 +4,7 @@ M.S. student in Computational Biology and Biomedical Informatics at Yale Univers
 
 ## Research Interests
 
-Dynamical systems modeling, spiking neural networks, Multiomics
+Biological systems modeling, neural networks, Multiomics
 
 ## Publications
 
