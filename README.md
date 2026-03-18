@@ -4,7 +4,7 @@ M.S. student in Computational Biology and Biomedical Informatics at Yale Univers
 
 ## Research Interests
 
-Biological Systems Modeling, Neural Networks, Multi Omics
+Computational neuroscience, NeuroAI
 
 ## Publications
 
