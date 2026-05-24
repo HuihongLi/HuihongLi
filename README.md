@@ -1,7 +1,5 @@
 # Hi, I'm Huihong Li 👋
 
-M.S. student in Computational Biology and Biomedical Informatics at Yale University.
-
 ## Research Interests
 
 Computational neuroscience, NeuroAI
